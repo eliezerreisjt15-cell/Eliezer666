@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "com/example/examplemod/mixins/MixinMinecraft": {
+      "startGame": "Lnet/minecraft/client/Minecraft;func_71384_a()V"
+    }
+  },
+  "data": {
+    "notch": {
+      "com/example/examplemod/mixins/MixinMinecraft": {
+        "startGame": "Lave;am()V"
+      }
+    },
+    "searge": {
+      "com/example/examplemod/mixins/MixinMinecraft": {
+        "startGame": "Lnet/minecraft/client/Minecraft;func_71384_a()V"
+      }
+    }
+  }
+}

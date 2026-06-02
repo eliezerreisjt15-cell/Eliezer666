@@ -1,0 +1,14 @@
+[
+{
+  "modid": "eliezer666",
+  "name": "Eliezer666",
+  "description": "Mod de terror para Minecraft 1.8.9",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["Eliezer"],
+  "credits": "Eliezer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
