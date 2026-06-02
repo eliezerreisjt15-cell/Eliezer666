@@ -1,0 +1,11 @@
+{
+  "whisper1": {
+    "sounds": ["eliezer666:whisper1"]
+  },
+  "breathing": {
+    "sounds": ["eliezer666:breathing"]
+  },
+  "scream": {
+    "sounds": ["eliezer666:scream"]
+  }
+}
